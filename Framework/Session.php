@@ -88,5 +88,5 @@ class Session
         return $message;
     }
 
-    
+
 }
