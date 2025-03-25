@@ -1,0 +1,37 @@
+{
+  "name": "qt-saas-vanilla-mvc-2025-s1",
+  "version": "1.0.0",
+  "description": "TailwindCSS V4, plus basic PHP MVC Framework Starter Kit",
+  "main": "index.php",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vite preview",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httpds://github.com/quinny26/tailwindcss-php-mvc-starter.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "html5",
+    "nodejs",
+    "php",
+    "mvc",
+    "simple",
+    "traversy-media"
+  ],
+  "author": "Quinny <20026235@tafe.wa.edu.au>",
+  "license": "SEE LICENSE IN Licence.md",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.16",
+    "@tailwindcss/postcss": "^4.0.16",
+    "@tailwindcss/vite": "^4.0.16",
+    "tailwindcss": "^4.0.16",
+    "vite-plugin-live-reload": "^3.0.4",
+    "vite-plugin-php": "^2.0.1"
+  }
+}
